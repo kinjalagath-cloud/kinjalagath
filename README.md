@@ -40,7 +40,7 @@ I enjoy learning new technologies, solving problems through code, and turning id
 ### 📈 Trading Diary
 A personal trading journal focused on trade tracking, strategy review, performance analysis, and continuous learning.
 
-🔗 [View Trading Diary](https://github.com/Kinjal Agath/trading-diary)
+🔗 [View Trading Diary](https://github.com/kinjalagath/trading-diary)
 ---
 
 ### 🎫 Event Management System
