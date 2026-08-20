@@ -94,7 +94,7 @@ I use GitHub to learn, build projects, practice programming, and share my develo
 
 📌 My resume will be available here soon.
 
-**[📄 Download My Resume](./Kinjal-Agath-Resume.pdf)**
+**[📄 Download My Resume](./kinjal_agath_resume.pdf)**
 
 ---
 
