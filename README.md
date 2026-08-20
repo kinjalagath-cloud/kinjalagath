@@ -38,11 +38,9 @@ I enjoy learning new technologies, solving problems through code, and turning id
 ## 🚀 Projects
 
 ### 📈 Trading Diary
+A personal trading journal focused on trade tracking, strategy review, performance analysis, and continuous learning.
 
-A project designed to help users maintain and organize their trading-related records and activities.
-
-**Technologies:** To be updated
-
+🔗 [View Trading Diary](https://github.com/Kinjal Agath/trading-diary)
 ---
 
 ### 🎫 Event Management System
